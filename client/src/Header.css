@@ -1,0 +1,17 @@
+
+.header button {
+    background-color: var(--tg-theme-button-color);
+    color: var(--tg-theme-button-text-color);
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    margin: 5px;
+  }
+
+  .header section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+  }
